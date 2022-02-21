@@ -1,6 +1,10 @@
 # app_playground
 
-A new Flutter project.
+A Flutter project of a Flutterando masterclass - Playground App
+
+<p float="left">
+  <img src="screenshot\screenshot.gif" width="200">
+</p>
 
 ## Getting Started
 
